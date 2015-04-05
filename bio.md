@@ -13,3 +13,5 @@ Hello!
 My name is Tristan Hari, I am a third year student at OSU, and I am a computer science major.
 
 I play guitar, kendama, and I enjoy cooking and going on hikes.
+
+Here is me adding even more content for a push. Oh boy, GitHub is cool.
